@@ -1,7 +1,6 @@
 <h3><b> ReadMe </b></h3>
 
 The project analyzes and shows various plots and uses regression to predict future demands.
-
 <br><br>--------------------------------------------------------------------------<br>
 
 The project is designed to not require any inputs from user and display all the data with labelled plots so as to allow company to get accurate prediction to determine their power production need hourly so as to cause minimum wastage of resources.
